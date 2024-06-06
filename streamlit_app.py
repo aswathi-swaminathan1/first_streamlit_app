@@ -8,5 +8,5 @@ streamlit.text("🐔 Hard-boiled Free-Range Egg")
 streamlit.text("🥑🍞 Avacado Toast")
 
 streamlit.title("Build Your Own Fruit Smoothie")
-streamlit.text("Mango, Milk and Dryfruits")
-streamlit.text("Papaya and Mango")
+
+
